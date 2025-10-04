@@ -1,0 +1,23 @@
+{
+  "name": "fcc-daily-problems",
+  "version": "1.0.0",
+  "description": "My solutions to Free Code Camp's Daily Problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omoogo/fcc-daily-problems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omoogo/fcc-daily-problems/issues"
+  },
+  "homepage": "https://github.com/omoogo/fcc-daily-problems#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
