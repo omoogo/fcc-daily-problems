@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "types": ["jest"]
+  },
+  "include": ["src", "__tests__"],
+  "exclude": ["node_modules"]
+}
