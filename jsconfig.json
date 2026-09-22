@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "checkJs": true,
+    "noImplicitAny": false,
     "types": ["jest"]
   },
   "include": ["src", "__tests__"],
